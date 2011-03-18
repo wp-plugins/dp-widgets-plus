@@ -1,5 +1,5 @@
 === DP Widgets Plus ===
-Contributors: Cloud Stone
+Contributors: cloudstone
 Donate link: http://dedepress.org/donate/
 Tags: widget, widgets, widget-icon, widget-banner, widget-image
 Requires at least: 2.7
