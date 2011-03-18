@@ -27,6 +27,8 @@ You can also specify the postion and float attribute of the icon to output a var
 3. Activate the plugin through the 'Plugins' menu in WordPress
 4. Go to Widgets page in admin and configure in 'DP Widgets Plus' panel of each widget
 
+test.
+
 == Usage ==
 
 DP Widget Plus generates friendly markup for custom styling in your own stylesheet.
