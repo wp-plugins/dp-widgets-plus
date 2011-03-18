@@ -32,6 +32,7 @@ You can also specify the postion and float attribute of the icon to output a var
 DP Widget Plus generates friendly markup for custom styling in your own stylesheet.
 
 Before using DP Widget Plus, the HTML markup of each widget usually like this:
+	
 	<div id="widget-xxx" class="widget">
 		<h3 class="widget-title">Widget Title</h3>
 		<!-- Different output for each widget -->
@@ -50,16 +51,22 @@ After using DP Widget Plus(We assume that all options of DP Widget Plus has been
 	</div>
 
 So, you can style the output with these CSS selectors: 
+	<pre>
+	<code>
 	.widget-icon{}
 	.widget-icon img{}
 	.widget-main-title{}
 	.widget-sub-title{}
 	.widget-footer{}
+	</code>
+	</pre>
 
 == Screenshots ==
 
-1, 2, 3, 4. Widget example that using DP Widgets Plus
+1. Widget example that using DP Widgets Plus
 2. The 'DP Widgets Plus' panel in each widget
+3. 
+4.
 
 == Changelog ==
 
