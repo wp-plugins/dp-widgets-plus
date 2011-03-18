@@ -22,12 +22,13 @@ You can also specify the postion and float attribute of the icon to output a var
 
 == Installation ==
 
-1. Unzip the plugin archive
-2. Upload the entire folder 'dp-widgets-plus' to '/wp-content/plugins/'
-3. Activate the plugin through the 'Plugins' menu in WordPress
-4. Go to Widgets page in admin and configure in 'DP Widgets Plus' panel of each widget
+1. Upload `dp-widgets-plus` folder to the `/wp-content/plugins/` directory.
+2. Activate the plugin through the 'Plugins' menu in WordPress.
+4. Go to Widgets page in your admin panel, you will find 'DP Widgets Plus' control options in each widget.
 
-test.
+== Frequently Asked Questions ==
+
+No FAQ yet.
 
 == Usage ==
 
@@ -53,15 +54,14 @@ After using DP Widget Plus(We assume that all options of DP Widget Plus has been
 	</div>
 
 So, you can style the output with these CSS selectors: 
-	<pre>
-	<code>
+	
+	<style type="text/css">
 	.widget-icon{}
 	.widget-icon img{}
 	.widget-main-title{}
 	.widget-sub-title{}
 	.widget-footer{}
-	</code>
-	</pre>
+	</style>
 
 == Screenshots ==
 
