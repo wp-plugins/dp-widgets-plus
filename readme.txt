@@ -1,5 +1,5 @@
 === DP Widgets Plus ===
-Contributors: Cloud Stone
+Contributors: cloudstone
 Donate link: http://dedepress.org/donate/
 Tags: widget, widgets, widget-icon, widget-banner, widget-image
 Requires at least: 2.7
@@ -27,11 +27,14 @@ You can also specify the postion and float attribute of the icon to output a var
 3. Activate the plugin through the 'Plugins' menu in WordPress
 4. Go to Widgets page in admin and configure in 'DP Widgets Plus' panel of each widget
 
+test.
+
 == Usage ==
 
 DP Widget Plus generates friendly markup for custom styling in your own stylesheet.
 
 Before using DP Widget Plus, the HTML markup of each widget usually like this:
+	
 	<div id="widget-xxx" class="widget">
 		<h3 class="widget-title">Widget Title</h3>
 		<!-- Different output for each widget -->
@@ -50,16 +53,22 @@ After using DP Widget Plus(We assume that all options of DP Widget Plus has been
 	</div>
 
 So, you can style the output with these CSS selectors: 
+	<pre>
+	<code>
 	.widget-icon{}
 	.widget-icon img{}
 	.widget-main-title{}
 	.widget-sub-title{}
 	.widget-footer{}
+	</code>
+	</pre>
 
 == Screenshots ==
 
 1. Widget example that using DP Widgets Plus
 2. The 'DP Widgets Plus' panel in each widget
+3. 
+4.
 
 == Changelog ==
 
