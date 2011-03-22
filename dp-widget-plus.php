@@ -62,7 +62,7 @@ class DP_Widgets_Plus {
      * Sometimes they are not, for example 'twitter-for-wordpress' and 'akismet'.
      * 
      * For these widges which avoid using WP_Widget class, they circumvent a hook which
-     * allows me to append the CSS Class form to the bottom of the widget.
+     * allows me to append the widgets plus form to the bottom of the widget.
      * 
      * Instead we intercept the hook, and have it call our own function, which
      * will allow us to inject our the form into the widget.
