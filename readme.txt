@@ -2,7 +2,7 @@
 Contributors: cloudstone
 Donate link: http://dedepress.org/donate/
 Tags: widget, widgets, widget-icon, widget-banner, widget-image
-Requires at least: 2.7
+Requires at least: 2.8
 Tested up to: 3.1
 Stable tag: 1.0
 
