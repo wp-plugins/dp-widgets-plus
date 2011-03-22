@@ -67,8 +67,6 @@ So, you can style the output with these CSS selectors:
 
 1. Widget example that using DP Widgets Plus
 2. The 'DP Widgets Plus' panel in each widget
-3. 
-4.
 
 == Changelog ==
 
